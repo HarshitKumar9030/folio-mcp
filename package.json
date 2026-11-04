@@ -1,0 +1,25 @@
+{
+  "name": "@harshitkumar9030/folio-mcp",
+  "version": "0.1.0",
+  "description": "Connect MCP clients to your Folio publishing workspace",
+  "type": "module",
+  "bin": {
+    "folio-mcp": "server.mjs"
+  },
+  "files": [
+    "server.mjs",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.28.0",
+    "zod": "^4.6.7"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HarshitKumar9030/folio-mcp.git"
+  }
+}
