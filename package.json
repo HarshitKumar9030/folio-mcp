@@ -1,7 +1,7 @@
 {
   "name": "@harshitkumar9030/folio-mcp",
-  "version": "0.1.0",
-  "description": "Connect MCP clients to your Folio publishing workspace",
+  "version": "0.2.0",
+  "description": "Connect MCP clients to your Folioo publishing workspace",
   "type": "module",
   "bin": {
     "folio-mcp": "server.mjs"
